@@ -3,6 +3,9 @@
 
 @Author  ：  ydk & gjx
 
+详情 http://www.gaojx.cn/2018/06/seamcarving/
+
+
 参考文献
 	1. A survey of image 
 	2. retargeting techniques
