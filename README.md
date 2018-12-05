@@ -7,8 +7,7 @@
 
 
 参考文献
-	1. A survey of image 
-	2. retargeting techniques
+	[1] A survey of image retargeting techniques
 	
 参考代码
 	https://github.com/vivianhylee/seam-carving
